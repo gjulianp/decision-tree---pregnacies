@@ -21,7 +21,7 @@ arbol = DecisionTreeClassifier(max_depth=4)
 arbol_decision = arbol.fit(x_train, y_train)
 
 # Visualizar el árbol de decisión
-fig = plt.figure(figsize=(40,30))
+fig = plt.figure(figsize=(60,50))
 tree.plot_tree(arbol_decision, feature_names=list(x.columns.values), class_names=list(y.unique()), filled=True)
 plt.savefig('arbol_de_decision.png')
 plt.show()
