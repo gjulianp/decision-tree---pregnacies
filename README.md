@@ -1,11 +1,10 @@
 # decision-tree---pregnacies
 Exercise for decision analysis class
+Desarrollo de un Modelo de Clasificación Utilizando Árboles de Decisión
 
-Desarrollo de un Modelo de Clasificación Utilizando Árboles de Decisión"
-
-En este trabajo, los estudiantes se enfocarán en desarrollar un modelo de clasificación utilizando árboles de decisión para predecir el embarazo basado en características médicas y biométricas. El objetivo principal es lograr una precisión del modelo superior al 70%.
+En este trabajo, los estudiantes se enfocarán en desarrollar un modelo de clasificación utilizando árboles de decisión para predecir la diabetes basado en características médicas y biométricas. El objetivo principal es lograr una precisión del modelo superior al 70%.
 Descripción de los Datos:
-Se proporcionará una base de datos con más de 700 registros que incluye información médica y biométrica de pacientes, así como una etiqueta que indica si están embarazadas o no. Los estudiantes utilizarán esta base de datos para entrenar y evaluar su modelo de clasificación.
+Se proporcionará una base de datos con más de 700 registros que incluye información médica y biométrica de pacientes, así como una etiqueta que indica si tienen diabetes positiva o no. Los estudiantes utilizarán esta base de datos para entrenar y evaluar su modelo de clasificación.
 Desarrollo del Trabajo:
 1. Exploración de Datos: Los estudiantes comenzarán explorando la base de datos para comprender la naturaleza de las características disponibles y la distribución de la variable objetivo.
 
